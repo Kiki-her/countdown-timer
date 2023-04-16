@@ -1,2 +1,12 @@
 # countdown-timer
-countdown-timer made by vanilla JS. CSS 
+
+countdown-timer made by vanilla JS.
+
+# steps
+
+chatGPT のコマンドで生成させたコードをリファクタリングする。
+プロンプト
+
+1. あなたは JavaScript のフルスタックエンジニアです。ブラウザで動くタイマーをコーディングしてください。HTML、CSS、JavaScript で script を書いてください。
+2. カウントダウンの時間をブラウザでユーザーが指定できるようにリファクタリングしてください。
+3. カウントダウン終了時に鳴るサウンドもブラウザからユーザーが選択できるようにリファクタリングしてください。サウンドは数種類すでに用意しています。
